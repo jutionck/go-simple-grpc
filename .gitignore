@@ -1,0 +1,3 @@
+/.idea/
+/proto/person.pb.go
+/proto/person_grpc.pb.go
